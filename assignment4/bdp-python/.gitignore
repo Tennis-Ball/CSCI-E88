@@ -1,0 +1,10 @@
+venv/
+.classpath
+.project
+.settings
+.idea
+*.iml
+*.ipr
+*.iws
+*.txt
+.DS_Store
